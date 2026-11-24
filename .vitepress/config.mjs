@@ -11,12 +11,11 @@ export default defineConfig({
   cleanUrls: 'with-subfolders',
 
   head: [
-    ['script', { async: '', src: 'https://www.googletagmanager.com/gtag/js?id=G-0P1YGBJDVL' }],
+    ['script', { async: '', src: 'https://www.googletagmanager.com/gtm.js?id=GTM-5Z4KX34X' }],
     ['script', {}, `
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
-      gtag('config', 'G-0P1YGBJDVL');
     `],
     ['link', { rel: 'icon', type: 'image/png', href: '/favicon.png' }],
     ['link', { rel: 'apple-touch-icon', href: '/favicon.png' }],

@@ -24,12 +24,15 @@ title: "Sugargoo Spreadsheet 2026: Budget Finds, QC Links & Shopping Guides"
 <p class="section-label">BUDGET FINDER</p>
 <h2>Start with a Sugargoo budget shortcut</h2>
 </div>
-<label class="search-field">
-<span>Search</span>
-<input type="search" placeholder="Search by item, brand, or code..." aria-label="Search the Sugargoo Spreadsheet by item, brand, or code" />
-</label>
-<p class="field-note">Use a budget link below to open current external records. Prices, stock, shipping, and product information are checked on the destination page.</p>
-<div class="filter-row" aria-label="Budget shortcuts">
+<p class="field-note">Use a shortcut below to open current Sugargoo Spreadsheet records. Prices, stock, shipping, and product information are checked on the destination page.</p>
+<div class="filter-row" aria-label="Sugargoo Spreadsheet quick links">
+<span class="filter-caption">Quick links</span>
+<a class="filter-pill" href="https://productsite-8wf.pages.dev/?view=styles&amp;platform=Sugargoo" aria-label="Sugargoo Spreadsheet all finds quick link" title="Sugargoo Spreadsheet all finds quick link">All Finds</a>
+<a class="filter-pill" href="https://productsite-8wf.pages.dev/?view=styles&amp;platform=Sugargoo&amp;category=clothing" aria-label="Sugargoo Spreadsheet clothing quick link" title="Sugargoo Spreadsheet clothing quick link">Clothing</a>
+<a class="filter-pill" href="https://productsite-8wf.pages.dev/?view=styles&amp;platform=Sugargoo&amp;category=shoe" aria-label="Sugargoo Spreadsheet sneakers quick link" title="Sugargoo Spreadsheet sneakers quick link">Sneakers</a>
+<a class="filter-pill" href="#how-to-order" aria-label="Sugargoo Spreadsheet QC and order guide quick link" title="Sugargoo Spreadsheet QC and order guide quick link">QC &amp; Order Guide</a>
+</div>
+<div class="filter-row" aria-label="Sugargoo Spreadsheet budget shortcuts">
 <span class="filter-caption">Budget</span>
 <a class="filter-pill" href="https://productsite-8wf.pages.dev/?view=styles&platform=Sugargoo&price=all" aria-label="Sugargoo Spreadsheet All Prices links" title="Sugargoo Spreadsheet All Prices links">All Prices</a>
 <a class="filter-pill" href="https://productsite-8wf.pages.dev/?view=styles&platform=Sugargoo&price=under-10" aria-label="Sugargoo Spreadsheet Under $10 links" title="Sugargoo Spreadsheet Under $10 links">Under $10</a>

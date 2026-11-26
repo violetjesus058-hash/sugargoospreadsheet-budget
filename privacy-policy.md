@@ -13,6 +13,10 @@ This Privacy Policy describes how **Sugargoo Spreadsheet Budget** ("we," "us," o
 
 This site is a navigation and referral directory, not a seller. We do not directly sell physical products, process orders or payments, inspect or store goods, arrange logistics, issue refunds, or provide after-sales support. Those functions belong to the external destination. Sugargoo and other brand or product names and images belong to their respective rights holders and do not establish official authorization, authenticity, quality assurance, or endorsement.
 
+### How the budget directory works
+
+The site's distinctive feature is budget routing: a visitor can choose a price band, category, season, or brand before leaving for an external data view. We may record the selected route and campaign source for performance analysis. The route does not make us the seller, agent, payment processor, warehouse, carrier, or customer-support provider for the destination.
+
 ## 2. Information we collect
 
 Browsing does not require an account. If you send an email, use a contact or request form, or otherwise contact us, we may receive the name, email address, message, and other details you voluntarily provide.

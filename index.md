@@ -114,4 +114,5 @@ title: "Sugargoo Spreadsheet 2026: Budget Finds, QC Links & Shopping Guides"
 <img src="/favicon.png" alt="Sugargoo Spreadsheet Budget Finder icon" />
 <p>Sugargoo Spreadsheet Budget is an independent directory for budget finds, QC links, shipping notes, and shopping guide shortcuts. External data belongs to its respective destination pages.</p>
 </section>
+<p class="privacy-link"><a href="/privacy-policy/" aria-label="Sugargoo Spreadsheet Budget Privacy Policy" title="Sugargoo Spreadsheet Budget Privacy Policy">Privacy Policy</a></p>
 </div>

@@ -65,6 +65,7 @@ export default defineConfig({
       { text: 'Accessories', link: 'https://productsite-8wf.pages.dev/?view=styles&category=ACC&platform=Sugargoo' },
       { text: 'Brands', link: '/#featured-brands' },
       { text: 'All Finds', link: 'https://productsite-8wf.pages.dev/?view=styles&platform=Sugargoo' },
+      { text: 'Privacy Policy', link: '/privacy-policy/' },
     ],
     sidebar: false,
     outline: false,
